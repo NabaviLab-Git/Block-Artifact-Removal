@@ -1,1 +1,1 @@
-This script can be used to for removing blocking artifacts from images, particularly Apotome images.
+This script can be used to for removing block artifacts from images, particularly Apotome images.
